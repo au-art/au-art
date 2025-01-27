@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings kind world
 
 <!--
 **au-art/au-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
